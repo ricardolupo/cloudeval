@@ -11,7 +11,7 @@ machine_options = {
  # Until SSH keys are supported (soon)
    #:image_id => 'rlcoreimagep01-20150209-623909',
    :image_id => 'a699494373c04fc0bc8f2bb1389d6106__Windows-Server-2012-R2-201412.01-en.us-127GB.vhd',
-   :password => "R34ll!fe"
+   :password => "xxxxxxx"
 }
 
 machine 'rlupochefdemo02' do
